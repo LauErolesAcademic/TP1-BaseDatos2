@@ -1,3 +1,6 @@
+
+<!-- revisión profe -->
+
 [!DB-Mascotas]</br>
 **Ámbito:** El seguimiento de mascotas que se dan en adopción</br>
 **Problema a resolver:** Necesitan registrar qué mascotas hay, quién las adopta, cómo evolucionan post-adopción, y su historial médico/vacunas
